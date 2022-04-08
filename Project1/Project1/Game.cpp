@@ -138,13 +138,13 @@ void Game::UpdateGame() {
 			diff[i] = (diff[i] > 0.0f) ? diff[i] : -diff[i];
 			if (
 				// 距離が近い
-				(diff[i] <= paddleH / 2.0f &&
+				(diff[0] <= paddleH / 2.0f &&
 					// ボールが画面左端
 					mBalls[b].pos.x <= 25.0f && mBalls[b].pos.x >= 20.0f &&
 					// ボールが左向きに進む
 					mBalls[b].vel.x < 0.0f) ||
 				// 距離が近い
-				(diff[i] <= paddleH / 2.0f &&
+				(diff[1] <= paddleH / 2.0f &&
 					// ボールが画面右端
 					mBalls[b].pos.x <= 990.0f && mBalls[b].pos.x >= 985.0f &&
 					// ボールが右向きに進む

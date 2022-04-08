@@ -1,7 +1,17 @@
 #pragma once
+#ifndef GAME_HEADER
+#define GAME_HEADER
+#define WIN_X SDL_WINDOWPOS_UNDEFINED
+#define WIN_Y SDL_WINDOWPOS_UNDEFINED
+#define WIN_W 640
+#define WIN_H 480
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
+#include <math.h>
+#ifndef M_PI
+#define M_PI 3.1415926
+#endif
 #include "SDL.h"
 
 struct Vector2 {
@@ -12,6 +22,10 @@ struct Vector2 {
 struct Ball {
 	Vector2 pos;
 	Vector2 vel;
+};
+
+struct Score {
+	int player, enemy;
 };
 
 class Game {
@@ -45,5 +59,7 @@ private:
 	std::vector<Vector2> mPaddlesPos;
 	//ボール
 	std::vector<Ball> mBalls;
-
+	//ボールの数
+	static const int BALL_NUM = 2;
 };
+#endif

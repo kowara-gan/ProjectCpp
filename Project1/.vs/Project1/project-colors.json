@@ -5,6 +5,11 @@
       "ProjectGuid": "1782725a-dfda-4ac9-a966-812650677034",
       "DisplayName": "Project1",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
