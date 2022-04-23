@@ -1,0 +1,17 @@
+﻿  Asteroid.cpp
+  Game.cpp
+  InputComponent.cpp
+  Laser.cpp
+  MoveComponent.cpp
+  Ship.cpp
+  コードを生成中...
+  ..\..\external\SDL2-2.0.18\lib\x64\SDL2.dll
+  1 個のファイルをコピーしました
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libjpeg-9.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libpng16-16.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libtiff-5.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libwebp-7.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\SDL2_image.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\zlib1.dll
+  6 個のファイルをコピーしました
+  Project3.vcxproj -> C:\Users\tomok\OneDrive\デスクトップ\ProjectCpp\Project3\x64\Debug\Project3.exe

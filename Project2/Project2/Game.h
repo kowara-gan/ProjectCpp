@@ -41,9 +41,9 @@ private:
 	SDL_Renderer* mRenderer;
 	Uint32 mTicksCount;
 	bool mIsRunning;
-	// / アクターが更新中か
+	// アクターが更新中か
 	bool mIsUpdatingActors;
 
 	class Ship* mShip; // 宇宙船
-	class Character* mCharacter; // 宇宙船
+	class Character* mCharacter; // 人
 };
