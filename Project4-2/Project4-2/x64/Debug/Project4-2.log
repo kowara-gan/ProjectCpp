@@ -1,0 +1,16 @@
+﻿  Actor.cpp
+  Board.cpp
+  Game.cpp
+  Main.cpp
+  SpriteComponent.cpp
+  コードを生成中...
+  Project4-2.vcxproj -> C:\Users\tomok\OneDrive\デスクトップ\ProjectCpp\Project4-2\x64\Debug\Project4-2.exe
+  ..\..\external\SDL2-2.0.18\lib\x64\SDL2.dll
+  1 個のファイルをコピーしました
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libjpeg-9.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libpng16-16.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libtiff-5.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\libwebp-7.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\SDL2_image.dll
+  ..\..\external\SDL2_image-2.0.5\lib\x64\zlib1.dll
+  6 個のファイルをコピーしました

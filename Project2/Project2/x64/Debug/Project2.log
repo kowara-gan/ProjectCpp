@@ -1,6 +1,4 @@
-﻿  TileMapComponent.cpp
-C:\Users\tomok\OneDrive\デスクトップ\ProjectCpp\Project2\Project2\TileMapComponent.cpp(18,2): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-  Project2.vcxproj -> C:\Users\tomok\OneDrive\デスクトップ\ProjectCpp\Project2\x64\Debug\Project2.exe
+﻿  Project2.vcxproj -> C:\Users\tomok\OneDrive\デスクトップ\ProjectCpp\Project2\x64\Debug\Project2.exe
   ..\..\external\SDL2-2.0.18\lib\x64\SDL2.dll
   1 個のファイルをコピーしました
   ..\..\external\SDL2_image-2.0.5\lib\x64\libjpeg-9.dll
